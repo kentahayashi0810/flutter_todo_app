@@ -1,0 +1,17 @@
+TODO App Feature Ideas:
+
+- User authentication (sign up, login, logout)
+- Dark mode support
+- Task categories or tags
+- Due dates and reminders for tasks
+- Task priority levels
+- Search and filter tasks
+- Task completion statistics
+- Cloud sync (Firebase or other backend)
+- Attach images or files to tasks
+- Subtasks or checklists
+- Swipe to delete or complete tasks
+- Customizable themes
+- Push notifications for reminders
+- Archive completed tasks
+- Reorder tasks via drag and drop
