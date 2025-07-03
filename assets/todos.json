@@ -1,0 +1,102 @@
+[
+    {
+        "title": "Buy groceries",
+        "description": "Milk, Bread, Eggs"
+    },
+    {
+        "title": "Walk the dog",
+        "description": "30 minutes in the park"
+    },
+    {
+        "title": "Complete Flutter project",
+        "description": "Finish the to-do app"
+    },
+    {
+        "title": "Read a book",
+        "description": "Start with \"Flutter for Beginners\""
+    },
+    {
+        "title": "Call Mom",
+        "description": "Check in and see how she is doing"
+    },
+    {
+        "title": "Prepare dinner",
+        "description": "Cook pasta and salad"
+    },
+    {
+        "title": "Exercise",
+        "description": "30 minutes of cardio"
+    },
+    {
+        "title": "Clean the house",
+        "description": "Vacuum and dust all rooms"
+    },
+    {
+        "title": "Plan weekend trip",
+        "description": "Decide on destination and activities"
+    },
+    {
+        "title": "Organize workspace",
+        "description": "Declutter desk and files"
+    },
+    {
+        "title": "Attend meeting",
+        "description": "Discuss project updates with team"
+    },
+    {
+        "title": "Grocery shopping",
+        "description": "Buy fruits and vegetables"
+    },
+    {
+        "title": "Laundry",
+        "description": "Wash and fold clothes"
+    },
+    {
+        "title": "Pay bills",
+        "description": "Electricity and internet bills"
+    },
+    {
+        "title": "Study for exam",
+        "description": "Review notes and practice questions"
+    },
+    {
+        "title": "Watch a movie",
+        "description": "Relax and enjoy a film"
+    },
+    {
+        "title": "Plan next week",
+        "description": "Set goals and tasks for the week"
+    },
+    {
+        "title": "Meditate",
+        "description": "Spend 10 minutes in mindfulness"
+    },
+    {
+        "title": "Update resume",
+        "description": "Add recent work experience and skills"
+    },
+    {
+        "title": "Practice coding",
+        "description": "Solve problems on LeetCode"
+    },
+    {
+        "title": "Clean the car",
+        "description": "Wash and vacuum the interior"
+    },
+    {
+        "title": "Buy birthday gift",
+        "description": "Find a present for friend's birthday"
+    },
+    {
+        "title": "Attend yoga class",
+        "description": "Join the evening session"
+    },
+    {
+        "title": "Write blog post",
+        "description": "Share insights on Flutter development"
+    },
+    {
+        "title": "Plan family gathering",
+        "description": "Organize a get-together"
+    }
+]
